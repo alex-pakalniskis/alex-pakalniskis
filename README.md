@@ -1,16 +1,20 @@
-# Welcome!
+# What's up?
 
 ### I'm Alex
 
-- <img src="https://img.icons8.com/color/48/000000/satellite-in-orbit.png"/> &nbsp; Background in geographic information systems and UAV remote sensing.
-- <img src="https://img.icons8.com/fluent/48/000000/butterfly.png"/> &nbsp; Currently a Technical Support Engineer at [SimplePractice](https://www.simplepractice.com/)
-- <img src="https://img.icons8.com/ios-filled/72/cloud-computing.png"/> &nbsp; Learning about APIs, automation, and cloud computing.
+<img src="https://img.icons8.com/fluent/48/000000/butterfly.png"/> </br>
+Currently work as a Technical Support Engineer at [SimplePractice](https://www.simplepractice.com/) <br>
+<img src="https://img.icons8.com/color/48/000000/satellite-in-orbit.png"/> <br> 
+I have a background in geographic information systems and UAV remote sensing.
+
+<br>
 
 ### Tech Stack
 
-- <img src="https://img.icons8.com/fluent/48/000000/code.png"/> &nbsp; Python | Ruby
-- <img src="https://img.icons8.com/color/48/000000/database.png"/> &nbsp; MySQL
-- <img src="https://img.icons8.com/color/48/000000/pull-request.png"/> &nbsp; Git | Bash | AWS
+<img src="https://img.icons8.com/fluent/48/000000/code.png"/> <br>
+JavaScript | Python | Bash | MySQL
+
+<br>
 
 ### Connect with Me
 
