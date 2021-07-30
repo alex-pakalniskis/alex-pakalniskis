@@ -3,16 +3,17 @@
 ### I'm Alex
 
 <img src="https://img.icons8.com/fluent/48/000000/butterfly.png"/> </br>
-Currently work as a Technical Support Engineer at [SimplePractice](https://www.simplepractice.com/) <br>
+* Tools and Support Engineer at [SimplePractice](https://www.simplepractice.com/) <br>
+
 <img src="https://img.icons8.com/color/48/000000/satellite-in-orbit.png"/> <br> 
-I have a background in geographic information systems and UAV remote sensing.
+* Background in geographic information systems (GIS)
 
 <br>
 
 ### Tech Stack
 
 <img src="https://img.icons8.com/fluent/48/000000/code.png"/> <br>
-JavaScript | Python | Bash | MySQL
+JavaScript | Python | Bash | MySQL | AWS
 
 <br>
 
