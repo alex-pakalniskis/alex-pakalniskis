@@ -2,11 +2,11 @@
 
 ### I'm Alex
 
-<img src="https://img.icons8.com/fluent/48/000000/butterfly.png"/> </br>
-* Tools and Support Engineer at [SimplePractice](https://www.simplepractice.com/) <br>
+<img src="https://img.icons8.com/fluent/48/000000/location.png"/> </br>
+* Product Engineer at [Esri](https://www.esri.com/) <br>
 
 <img src="https://img.icons8.com/color/48/000000/satellite-in-orbit.png"/> <br> 
-* Background in geographic information systems (GIS)
+* Background in geographic information systems (GIS) and UAV remote sensing
 
 <br>
 
