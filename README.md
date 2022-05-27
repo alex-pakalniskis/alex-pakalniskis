@@ -1,23 +1,8 @@
-# What's up?
+## Alex Pakalniskis (Pakaliscious) 
 
-### I'm Alex
-
-<img src="https://img.icons8.com/fluent/48/000000/location.png"/> </br>
-* Product Engineer at [Esri](https://www.esri.com/) <br>
-
-<img src="https://img.icons8.com/color/48/000000/satellite-in-orbit.png"/> <br> 
-* Background in geographic information systems (GIS) and UAV remote sensing
-
-<br>
-
-### Tech Stack
-
-<img src="https://img.icons8.com/fluent/48/000000/code.png"/> <br>
-JavaScript | Python | Bash | MySQL | AWS
-
-<br>
-
-### Connect with Me
+Product Engineer at [Esri](https://www.esri.com/en-us/home) [ArcGIS Online](https://www.esri.com/en-us/arcgis/products/arcgis-online/overview) <br>
+Ops Committee at [Graph AdvocatesDAO](https://docs.graphadvocates.com/) <br>
+Certified Instructor at [The Carpentries](https://carpentries.org/) <br>
 
 <p align="left">
 <a href="https://www.linkedin.com/in/alexpakalniskis3/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Alex%20Pakalniskis%203-gray?style=flat-square&logo=linkedin"></a>
