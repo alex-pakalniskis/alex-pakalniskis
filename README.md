@@ -2,7 +2,7 @@
 
 Product Engineer at [Esri](https://www.esri.com/en-us/home) [ArcGIS Online](https://www.esri.com/en-us/arcgis/products/arcgis-online/overview) <br>
 Ops Committee at [Graph AdvocatesDAO](https://docs.graphadvocates.com/) <br>
-Certified Instructor at [The Carpentries](https://carpentries.org/) <br>
+Maintainer and Certified Instructor at [The Carpentries](https://carpentries.org/) <br>
 
 <p align="left">
 <a href="https://www.linkedin.com/in/alexpakalniskis3/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Alex%20Pakalniskis%203-gray?style=flat-square&logo=linkedin"></a>
