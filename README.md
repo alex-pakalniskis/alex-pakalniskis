@@ -1,26 +1,15 @@
 ## Alex Pakalniskis (a.k.a. Paka or Pakaliscious) 
 
-Product Engineer at [Esri](https://www.esri.com/en-us/home) [ArcGIS Online](https://www.esri.com/en-us/arcgis/products/arcgis-online/overview) <br>
-Decentralized web stuff at [Graph AdvocatesDAO](https://docs.graphadvocates.com/) & [IndexerDAO](https://barracuda.io/IndexerDAO)<br>
-Curriculum Advisor, Lesson Maintainer, and Certified Instructor at [The Carpentries](https://carpentries.org/) <br>
 
----
+* Product engineer II at [Esri](https://www.esri.com/en-us/home) [ArcGIS Online](https://www.esri.com/en-us/arcgis/products/arcgis-online/overview)
+* Community educator at [Graph AdvocatesDAO](https://docs.graphadvocates.com/) & [IndexerDAO](https://barracuda.io/IndexerDAO)
+* Curriculum advisor and lesson maintainer at [The Carpentries](https://carpentries.org/)
 
-Code along with me: https://alex-pakalniskis.github.io/CodeAlongSchedule/
+## Projects
+* [Code Along with Alex](https://www.youtube.com/playlist?list=PLHzllR6SWjI8XVqSJUxZMsnChLv9PgWOs)
+* [Rust Office Hours Resources](https://alex-pakalniskis.github.io/RustOfficeHoursResources/sessions.html)
+* Indexing 101
 
-</p>
-
-<!--
-**alex-pakalniskis/alex-pakalniskis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Social media
+* [Linkedin](https://www.linkedin.com/in/alexpakalniskis3/)
+* [Twitter](https://twitter.com/alexpakalniskis)
