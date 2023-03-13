@@ -8,7 +8,7 @@
 ## Projects
 * [Code Along with Alex](https://www.youtube.com/playlist?list=PLHzllR6SWjI8XVqSJUxZMsnChLv9PgWOs)
 * [Rust Office Hours Resources](https://alex-pakalniskis.github.io/RustOfficeHoursResources/sessions.html)
-* [Indexing 101](https://indexing101.indexerdao.com/)
+* [Indexing 101](https://docs.indexerdao.com/)
 
 ## Social media
 * [Linkedin](https://www.linkedin.com/in/alexpakalniskis3/)
