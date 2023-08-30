@@ -1,4 +1,6 @@
-## Alex Pakalniskis (a.k.a. Paka or Pakaliscious) 
-* [My website](https://about.alexpakalniskis.com)
-* [Linkedin](https://www.linkedin.com/in/alexpakalniskis3/)
-* [Twitter](https://twitter.com/alexpakalniskis)
+## Alex Paka
+https://about.alexpakalniskis.com
+
+* Product manager, Indexer Software at [Edge & Node](https://edgeandnode.com/)
+* Lecturer, part-time at [California State University, Long Beach Department of Geography
+](https://cla.csulb.edu/departments/geography/)
